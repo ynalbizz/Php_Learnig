@@ -1,0 +1,15 @@
+{
+    "name": "cdavi/hello_php",
+    "autoload": {
+        "psr-4": {
+            "HelloPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cdavi",
+            "email": "cdavi13@gmail.com"
+        }
+    ],
+    "require": {}
+}
